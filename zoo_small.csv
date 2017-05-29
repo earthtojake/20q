@@ -1,0 +1,6 @@
+,is it aquatic?,does it lay eggs?,does it have 4 legs?,does it have a trunk?,does it have 2 legs?
+giraffe,0,0,1,0,0
+seal,1,0,0,0,0
+chicken,0,1,0,0,1
+penguin,1,1,0,0,1
+elephant,0,0,1,1,0
