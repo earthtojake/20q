@@ -1,4 +1,10 @@
-Instructions for setting up the 20Q bot:
+# 20Q
+
+A bot trained with an artificial neural network to play a simplified version of 20 questions.
+Uses a "zoo" dataset as guess options for the user and targets for the bot, with animal features
+forming the questions and answers.
+
+# Instructions
 
 The program runs on Python 2.7, modules are in requirements.txt: numpy==1.12.0, matplotlib==2.0.2
 
@@ -24,5 +30,3 @@ python 20q.py big play
 
 It is recommended that 'crossvalidate' mode only be used on datasets micro, small or medium (not big),
 as training for 'big' takes 20-30 mins.
-
-Github link: https://github.com/jakefitzgerald/20q
